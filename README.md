@@ -1,4 +1,4 @@
-## Your Name
+## Ralph Mallett
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
@@ -23,18 +23,18 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (July - September '20)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Aston University (September '01 - June '05)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- BSc with Honours in Managerial & Administrative Studies
+- Obtained a 2:1
+- Included a one year placement in industry
 
 #### Any other qualifications
 
@@ -42,12 +42,20 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
+**QVC UK** (May '11 - June '20)    
+*Merchandise Planner*  
 - Any experience relevent to software development
 
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**BHS** (April '10 - May '11)   
+*Junior Merchandiser*  
+- Any experience relevent to software development
+
+**House of Fraser** (October '07 - April '10)   
+*Junior Merchandiser*  
+- Any experience relevent to software development
+
+**Woolworths** (October '05 - October '07)   
+*Inventory Analyst / Junior Inventory Manager*  
 - Any experience relevent to software development
 
 ## Hobbies
