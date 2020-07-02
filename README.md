@@ -1,9 +1,11 @@
 ## Ralph Mallett
 
-[LinkedIn](http://www.linkedin.com/in/ralph-mallett/) | [Blog](http:https://medium.com/@rmallett12)
+[LinkedIn](http://www.linkedin.com/in/ralph-mallett/) | [Blog](http://medium.com/@rmallett12)
 
 I am an enthusiastic, self motivated Junior Full Stack Developer studying at Makers - a highly selective, fully immersive, four-month bootcamp in software development. 
+
 After graduating, I moved to London and spent 15 years working in head office merchandising roles. While this career provided financial stability, it ultimately proved to offer little satisfaction so I decided that I needed a new direction and a new challenge.   
+
 I have always been excited by technology and fascinated by it. I’m intrigued by the workings of home automation and smart technology, as well as the complex processes of fintech. I’m curious to learn even more, and keen to start my new career in London’s thriving tech scene.
 
 ## Skills
@@ -55,27 +57,27 @@ Throughout my career I have been regularly identified as a mentor and coach for 
 
 ## Experience
 
-####**QVC UK** (May '11 - June '20)    
+**QVC UK** (May '11 - June '20)    
 *Merchandise Planner / Category Merchandiser*  
 - Responsible for a number of product categories with annual turnover of up to £60m, including IT & electronics, cosmetics, and jewellery 
 - As category merchandiser, worked in a new function at QVC that was integral in the development and refinement of tools and processes to plan and forecast sales and margin across different channels
 
-####**BHS** (April '10 - May '11)   
+**BHS** (April '10 - May '11)   
 *Junior Merchandiser*  
 - Worked with buying team on the bathroom department to plan and develop a profitable range which was presented to senior management and implemented 
 - Managed, provided coaching and supported the development of an Assistant Merchandiser and an Associate 
 
-####**House of Fraser** (October '07 - April '10)   
+**House of Fraser** (October '07 - April '10)   
 *Assistant Merchandiser*  
 - Created various tools in excel to monitor department performance at store and item level
 - Took initiative by organising regular forecasting meetings with suppliers to ensure continuity of supply through key trading periods and minimise out of stocks 
 
-####**Woolworths** (October '05 - October '07)   
+**Woolworths** (October '05 - October '07)   
 *Inventory Analyst / Junior Inventory Manager*  
 - Worked on the largest department in Woolworths, with annual turnover of over £100m 
 - Created detailed intake plans for seasonal product and collaborated with colleagues in Hong Kong buying office and UK distribution centres to ensure planned intake did not exceed capacity
 
-####**Unilever** (October '05 - October '07)   
+**Unilever** (October '05 - October '07)   
 *Category Development Analyst (Industrial Placement)* 
 - Provided support for a team of account managers in producing management reports, on the largest UK customer account (Asda)  
 - Was integral in the development and implementation of a new management database information system based on Business Objects platform
