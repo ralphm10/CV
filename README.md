@@ -1,29 +1,41 @@
 ## Ralph Mallett
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+[LinkedIn](http://www.linkedin.com/in/ralph-mallett/) | [Blog](http:https://medium.com/@rmallett12)
+
+I am an enthusiastic, self motivated Junior Full Stack Developer studying at Makers - a highly selective, fully immersive, four-month bootcamp in software development. 
+After graduating, I moved to London and spent 15 years working in head office merchandising roles. While this career provided financial stability, it ultimately proved to offer little satisfaction so I decided that I needed a new direction and a new challenge.   
+I have always been excited by technology and fascinated by it. I’m intrigued by the workings of home automation and smart technology, as well as the complex processes of fintech. I’m curious to learn even more, and keen to start my new career in London’s thriving tech scene.
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+On reflection, the aspects of my earlier jobs that I enjoyed most and excelled at all have aspects of software development to them. These included creating formulas in excel, automating reports, making processes more efficient and imparting my knowledge to others when providing coaching on systems.
 
-#### This Skill
+#### Analysis and Problem Solving
 
-- Experience
-- Achievements
-- Evidence
+Working in merchandising you have access to a huge amount of data which you must analyse quickly to make decisions, and are faced with often conflicting priorities.
 
-#### Another Skill
+- In my role as Category Merchandiser at QVC I was integral in developing tools and processes to forecast sales and margin across multiple sales channels and product categories
+- Along with the commercial analytics team, I developed a tool which automated the production of reports which were previously run manually, saving users hours of work
+- At BHS, I made quick decisions based on analysis about the next action for a product, such as to reorder or markdown, whilst considering KPIs and seasonality 
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+#### Coaching 
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+Throughout my career I have been regularly identified as a mentor and coach for new recruits, not only for my in-depth knowledge and understanding of tools and processes but also due to my approachable, calm and patient demeanour.
+
+- Trained new recruits and graduate trainees on business systems at QVC
+- Made expert user for SAP purchasing when rolled out at Woolworths
+- Delivered a training workshop to account managers at Unilever on a business information system using business objects which I helped develop
+
+#### Communication
+
+- Able to collaborate remotely through three months working at home during lockdown and four months remote study at Makers
+- Presented financial performance such as variance to sales forecast to directors at QVC
+- Reacted to and communicated real-time information to television producers to be relayed on live broadcasts at QVC
+- Arranged bi-weekly conference calls with departmental store managers at House of Fraser to create better relationships and identity any issues 
 
 ## Education
 
-#### Makers Academy (July - September '20)
+#### Makers Academy (July '20 - September '20)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
@@ -36,28 +48,38 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Obtained a 2:1
 - Included a one year placement in industry
 
-#### Any other qualifications
+#### Other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
+- A-levels in Media Studies (A), Business Studies (B), English Language (B)
+- 10 GCSEs including A* in German, double A in combined sciences and A in maths
 
 ## Experience
 
-**QVC UK** (May '11 - June '20)    
-*Merchandise Planner*  
-- Any experience relevent to software development
+####**QVC UK** (May '11 - June '20)    
+*Merchandise Planner / Category Merchandiser*  
+- Responsible for a number of product categories with annual turnover of up to £60m, including IT & electronics, cosmetics, and jewellery 
+- As category merchandiser, worked in a new function at QVC that was integral in the development and refinement of tools and processes to plan and forecast sales and margin across different channels
 
-**BHS** (April '10 - May '11)   
+####**BHS** (April '10 - May '11)   
 *Junior Merchandiser*  
-- Any experience relevent to software development
+- Worked with buying team on the bathroom department to plan and develop a profitable range which was presented to senior management and implemented 
+- Managed, provided coaching and supported the development of an Assistant Merchandiser and an Associate 
 
-**House of Fraser** (October '07 - April '10)   
-*Junior Merchandiser*  
-- Any experience relevent to software development
+####**House of Fraser** (October '07 - April '10)   
+*Assistant Merchandiser*  
+- Created various tools in excel to monitor department performance at store and item level
+- Took initiative by organising regular forecasting meetings with suppliers to ensure continuity of supply through key trading periods and minimise out of stocks 
 
-**Woolworths** (October '05 - October '07)   
+####**Woolworths** (October '05 - October '07)   
 *Inventory Analyst / Junior Inventory Manager*  
-- Any experience relevent to software development
+- Worked on the largest department in Woolworths, with annual turnover of over £100m 
+- Created detailed intake plans for seasonal product and collaborated with colleagues in Hong Kong buying office and UK distribution centres to ensure planned intake did not exceed capacity
+
+####**Unilever** (October '05 - October '07)   
+*Category Development Analyst (Industrial Placement)* 
+- Provided support for a team of account managers in producing management reports, on the largest UK customer account (Asda)  
+- Was integral in the development and implementation of a new management database information system based on Business Objects platform
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+I am passionate about food, music, film and travel, and enjoy watching sports including football, cricket and NFL. I gain more pleasure through experiences than things and prefer the new to the familiar. I express my creativity through cooking. 
