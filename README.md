@@ -2,7 +2,7 @@
 
 [LinkedIn](http://www.linkedin.com/in/ralph-mallett/) | [Blog](http://medium.com/@rmallett12)
 
-I am an enthusiastic, self motivated Junior Full Stack Developer and recent graduate of [Makers](http://https://https://makers.tech/) - a highly selective, fully immersive, four-month bootcamp in software development. 
+I am an enthusiastic, self motivated Junior Full Stack Developer and recent graduate of [Makers](http://makers.tech/) - a highly selective, fully immersive, four-month bootcamp in software development. 
 
 After leaving Aston University with a business degree, I moved to London and spent 15 years working in head office merchandising roles. While this career provided financial stability, it ultimately proved to offer little satisfaction so I decided that I needed a new direction and a new challenge.   
 
@@ -12,9 +12,9 @@ I have always been excited by technology and fascinated by it. I’m intrigued b
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| [spotiPhyte](http://https://github.com/SilverLongjohns/spotiPhyte/)           | Final group project at Makers. A web based game using Spotify API. | JavaScript, APIs, HTML, CSS |
-| [Bank Tech Test](http://https://https://github.com/ralphm10/bank_tech_test/) | A simple bank simulator that runs in a REPL. | Ruby              |
-| [AceBook](http://https://https://https://github.com/ralphm10/acebook) | Group project at Makers. A social network clone. | Ruby on Rails, HTML, CSS, RSpec              |
+| [spotiPhyte](https://github.com/SilverLongjohns/spotiPhyte/)           | Final group project at Makers. A web based game using Spotify API. | JavaScript, APIs, HTML, CSS |
+| [Bank Tech Test](https://github.com/ralphm10/bank_tech_test/) | A simple bank simulator that runs in a REPL. | Ruby              |
+| [AceBook](https://github.com/ralphm10/acebook) | Group project at Makers. A social network clone. | Ruby on Rails, HTML, CSS, RSpec              |
 
 ## Skills
 
