@@ -8,6 +8,14 @@ After graduating, I moved to London and spent 15 years working in head office me
 
 I have always been excited by technology and fascinated by it. I’m intrigued by the workings of home automation and smart technology, as well as the complex processes of fintech. I’m curious to learn even more, and keen to start my new career in London’s thriving tech scene.
 
+## Projects
+
+| Name                         | Description       | Tech/tools        |
+| ---------------------------- | ----------------- | ----------------- |
+| [spotiPhyte](http://https://github.com/SilverLongjohns/spotiPhyte/)           | Final group project at Makers. A web based game using Spotify API. | JavaScript, APIs, HTML, CSS |
+| [Bank Tech Test](http://https://https://github.com/ralphm10/bank_tech_test/) | A simple bank simulator that runs in a REPL. | Ruby              |
+| [AceBook](http://https://https://https://github.com/ralphm10/acebook) | Group project at Makers. A social network | Ruby on Rails, HTML, CSS, RSpec              |
+
 ## Skills
 
 On reflection, the aspects of my earlier jobs that I enjoyed most and excelled at all have aspects of software development to them. These included creating formulas in excel, automating reports, making processes more efficient and imparting my knowledge to others when providing coaching on systems.
