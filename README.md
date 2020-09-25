@@ -67,7 +67,7 @@ Throughout my career I have been regularly identified as a mentor and coach for 
 
 **QVC UK** (May '11 - June '20)    
 *Merchandise Planner / Category Merchandiser*  
-- Responsible for a number of product categories with annual turnover of up to £60m, including IT & electronics, cosmetics, and jewellery 
+- Responsible for a number of product categories with annual turnover of up to £60m, including IT & electronics, cosmetics, apparel and jewellery 
 - As category merchandiser, worked in a new function at QVC that was integral in the development and refinement of tools and processes to plan and forecast sales and margin across different channels
 
 **BHS** (April '10 - May '11)   
