@@ -85,7 +85,7 @@ Throughout my career I have been regularly identified as a mentor and coach for 
 - Worked on the largest department in Woolworths, with annual turnover of over £100m 
 - Created detailed intake plans for seasonal product and collaborated with colleagues in Hong Kong buying office and UK distribution centres to ensure planned intake did not exceed capacity
 
-**Unilever** (October '05 - October '07)   
+**Unilever** (July '03 - June '04)   
 *Category Development Analyst (Industrial Placement)* 
 - Provided support for a team of account managers in producing management reports, on the largest UK customer account (Asda)  
 - Was integral in the development and implementation of a new management database information system based on Business Objects platform
