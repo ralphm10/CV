@@ -47,10 +47,13 @@ Throughout my career I have been regularly identified as a mentor and coach for 
 
 #### Makers Academy (July '20 - September '20)
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Programming concepts including OOP, TDD, MVC, DDD
+- Agile and XP practices
+- Building applications using Ruby, Rails Java and JavaScript
+- CI/CD with Travis and Heroku
+- RESTful routes
+- Testing code with RSpec, Jasmine
+- Relational databases, postgreSQL, and object-relational mapping
 
 #### Aston University (September '01 - June '05)
 
