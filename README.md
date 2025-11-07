@@ -68,6 +68,12 @@ Throughout my career I have been regularly identified as a mentor and coach for 
 
 ## Experience
 
+**Made Tech** (May '25 - present)    
+*Senior Software Engineer*  
+
+**Ford Motor Company** (Feb '21 - Apr '25)    
+*Software Engineer*  
+
 **QVC UK** (May '11 - June '20)    
 *Merchandise Planner / Category Merchandiser*  
 - Responsible for a number of product categories with annual turnover of up to £60m, including IT & electronics, cosmetics, apparel and jewellery 
